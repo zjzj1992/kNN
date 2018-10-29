@@ -15,6 +15,7 @@ k-近邻算法(kNN)
 一般选取一个较小的数值，通常采取交叉验证法来选取最优的k值，选取k值的关键就是要进行调参
 5、距离的度量：
 选择距离函数应该根据数据的特性和分析的需要而定，但是在一般情况下使用最常用的L2函数(欧氏距离)即可
+
 （1）欧式距离（L2）：![image](https://github.com/zjzj1992/kNN/blob/master/images/oushi.png)  
 
 （2）曼哈顿距离（L1）：![image](https://github.com/zjzj1992/kNN/blob/master/images/manha.png)
